@@ -1,6 +1,3 @@
-(* Fatima Rahman, rahma176, 12/10/19 *)
-(* LABJECT 123 *)
-
 open Printf ;;
 
 (* Pure Lisp Evaluator, taken from lisp.ml *)
